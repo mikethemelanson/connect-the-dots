@@ -115,7 +115,7 @@ A SHA is a reference to a specific object. In this case, it's a reference to a c
   TBD-step-3-notes.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Fix a broken sidebar</h2></summary>
 
 Thanks for finding that commit! We now know that the sidebar was indeed added, and it was done in that commit. Let's see if we can dig a little deeper to find out if any planning or conversation, using comments, occurred around this change. 
@@ -155,7 +155,7 @@ When you're looking at a commit on GitHub, you can see a lot of information. Fro
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 ### Congratulations friend, you've completed this course!
